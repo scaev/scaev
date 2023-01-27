@@ -10,8 +10,6 @@
 
 - 🤝 I’m looking for help with **in upcomming projects.**
 
-- 📝 I regularly write articles on [dipolelearning.com](dipolelearning.com)
-
 - 💬 Ask me about **any of the projects on my github.**
 
 - 📫 How to reach me **kenkaraa@gmail.com**
