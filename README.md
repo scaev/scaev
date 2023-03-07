@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">A passionate Full Stack developer from Canada</h3>
 
-- 🔭 I’m currently working on **Mongo**
+- 🔭 I’m currently working on **MERN-Stack**
 
-- 🌱 I’m currently learning **Python and Django.**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Learning Together.**
 
@@ -15,8 +15,6 @@
 - 📫 How to reach me **kenkaraa@gmail.com**
 
 - 📄 Know about my experiences [kaankara.dev](https://kaankara.dev/)
-
-- ⚡ Fun fact **I think I am future Billionare.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
