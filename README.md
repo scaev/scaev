@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Social Media Apps**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript, Next.js**
 
-- 👨‍💻 All of my projects are available at [kaankara.dev](kaankara.dev)
+- 👨‍💻 All of my projects are available at [kaanapp.com](kaanapp.com)
 
 - 💬 Ask me about **any of the projects on my github :)**
 
