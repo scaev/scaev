@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
-- 👨‍💻 All of my projects are available at [kaanapp.com](kaanapp.com)
+- 👨‍💻 All of my projects are available at [https://kaanapp.com](kaanapp.com)
 
 - 💬 Ask me about **any of the projects on my github :)**
 
