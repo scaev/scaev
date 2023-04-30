@@ -1,4 +1,7 @@
-[![MasterHead](https://i.imgur.com/pAtrQHv.gif)](https://kaankara.dev)
+---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=57F9D1&size=23&center=true&vCenter=true&lines=Hello+World;I+'m+Kaan;Passionate+Software+developer;Lifelong+Learner;Welcome+to+my+profile)
+---
+
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">Full-stack developer from Toronto</h3>
 <div><img align="right" alt="Coding" width="400" src="https://i.imgur.com/NEtSZij.gif"/></div>
