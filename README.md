@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Social Media Apps**
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [kaanapp.com](https://kaanapp.com)
 
