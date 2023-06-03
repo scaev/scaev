@@ -21,7 +21,7 @@
 <a href="https://twitter.com/kenkara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenkara_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/m-kaan-karadag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-kaan-karadag" height="30" width="40" /></a>
 <!-- <a href="https://codesandbox.com/kenkaraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kenkaraa" height="30" width="40" /></a> -->
-<a href="https://instagram.com/scaevolas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="scaevolas" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/scaevolas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="scaevolas" height="30" width="40" /></a> -->
 <!-- <a href="https://discord.gg/3782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3782" height="30" width="40" /></a> -->
 </p>
 
